@@ -1,7 +1,4 @@
 mountpoints:
  # Original file mention
- # /: https://drive.google.com/drive/u/0/folders/1MGzOt7ubUh3gu7zhZIPb7R7dyRzG371j
+  /: https://drive.google.com/drive/u/0/folders/1G8rLnyqXcxOmfqQJ33JepRP62jPnV7cV
 
- # Redirecr your repository to your google drive folder
-# /: https://drive.google.com/drive/u/0/folders/1Kz1q1Nz4tM46Q912of-lwazPhECDDEOc
- /: https://drive.google.com/drive/u/0/folders/1G8rLnyqXcxOmfqQJ33JepRP62jPnV7cV
