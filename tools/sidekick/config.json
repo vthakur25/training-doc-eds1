@@ -6,4 +6,13 @@
       "url": "https://experienceleague.adobe.com",
       "event": "open",
       "environment": "all"
-    }] }
+    },
+  {
+      "id": "generate-variations",
+      "title": "Generate Variations",
+      "url": "https://experience.adobe.com/aem/generate-variations",
+      "passConfig": true,
+      "environments": ["preview", "live", "edit"],
+      "includePaths": ["**.docx**"]
+    }
+] }
