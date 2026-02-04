@@ -1,13 +1,6 @@
 { "project": "franklin-asset-selector", "host": "www.mymydomain.prod", "plugins": [
-  { "id": "asset-library", "title": "My Assets", "environments": [ "edit" ], "url": "https://experience.adobe.com/solutions/CQ-helix-assets-addon/static-assets/resources/asset-selector.html", "isPalette": true, "includePaths": [ "**.docx**" ], "passConfig": true, "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)" },
- {
-      "id": "external-link",
-      "title": "Documentation",
-      "url": "https://experienceleague.adobe.com",
-      "event": "open",
-      "environment": "all"
-    },
-  {
+  { "id": "asset-library", "title": "Select Assets", "environments": [ "edit" ], "url": "https://experience.adobe.com/solutions/CQ-helix-assets-addon/static-assets/resources/asset-selector.html", "isPalette": true, "includePaths": [ "**.docx**" ], "passConfig": true, "paletteRect": "top: 50px; bottom: 10px; right: 10px; left: auto; width:400px; height: calc(100vh - 60px)" }
+  ,{
       "id": "aem-genai-variations",
       "titleI18n": {
         "en": "Generate with AI"
